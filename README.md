@@ -77,10 +77,10 @@ This script will execute the analysis steps and produce the results.
 
 - There is a strong positive correlation between the Daily Percentage Return of Asset2 and Asset3.
 - Asset4 and Asset 2 incresed their weight the most at the end of the period, compared with the rest of the assets.
-- The cumulative return of the portfolio at the end of the period is 0%, so the overall portfolio growth is 0.
-- The Historical Cumulative Returns of the Portfolio shows shark peaks with different permonace over time.
-- The Annualized Portfolio return is 12.48%, which is above the average return pf S&P 500 index, showing a good return.
-- The Annualized Volatility is quite high, which needs further investigation.
+- Overall Portfolio Growth: the portfolio has increased as the cumulative return at the end of the period is higher than at the beggining.
+- The Historical Cumulative Returns of the Portfolio does not show sharp spikes. It shows a continious growth, with the drawdown exception during 2020-04 (probably COVID related).
+- The Annualized Portfolio return is 7.8%, which indicates a good return.
+- The Annualized Volatility is moderate (8.36%), which indicates that the portfolio has some fluctuations.
 - Fixed Income and Alternative families show a similar behaviour, whereas Equity and Fixed Income show an opposite performance. 
 
 ## Conclusion
